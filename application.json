@@ -3,6 +3,10 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "ChildPage",
+      "isDefault": false
     }
   ],
   "viewMode": false,
